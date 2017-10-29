@@ -10,6 +10,7 @@ public class helllo
 	public void master()
 	{
 	System.out.println("HI Raju this is master");
+	System.out.println("HI this is new line in master");
 
 }
 }
